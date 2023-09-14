@@ -16,7 +16,7 @@ html {
 .card-component {
   max-width: 70rem;
   height: 52rem;
-  margin: 100px auto;
+  margin: 50px auto;
 
   display: grid;
   grid-template-columns: repeat(2, 1fr);
